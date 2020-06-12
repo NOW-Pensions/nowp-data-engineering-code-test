@@ -1,0 +1,13 @@
+**/.idea/*
+**/npm-debug.log*
+**/node_modules
+**/.npm
+**/build/*
+**/.DS_Store
+**/.env
+**/.gradle/*
+**/out/*
+**/*.log
+*.jar
+gradle/wrapper/gradle-wrapper.properties
+*.bat
